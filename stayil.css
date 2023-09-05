@@ -194,8 +194,8 @@ header {
   .icons ul {
     display: flex;
     flex-direction: row;
-    -moz-column-gap: 15px;
-         column-gap: 15px;
+    -moz-column-gap: 16px;
+         column-gap: 16px;
     list-style: none;
   }
   .icons ul li a img {
